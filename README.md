@@ -1,4 +1,5 @@
-# [WORK IN PROGRESS] :e-mail: Mailified - Secure E-Mail Delivery with Proof
+# [WORK IN PROGRESS]
+# :e-mail: Mailified - Secure E-Mail Delivery with Proof
 
 Mailified is a new project to verify the delivery and handling of E-Mails. It does so by providing a easy-to-use and also self hostable service that listens to E-Mails and writes their time stamps onto a blockchain (currently, the IOTA Blockchain is being used).
 
@@ -12,7 +13,11 @@ If there is a problem with your E-Mail or the authorities argue, that they didn'
 As of now (May 2022), I have a lot on my plate and just finished the conceptual phase. I also did some experimenting with an Express Backend and NodeJS scripts for E-Mail handling and communicating with the new IOTA v2 Mainnet. Next, I will deploy a simple react app and connect the backend with the frontend through a custom API.
 
 :white_check_mark: Concept done
+
 :white_check_mark: First prototyping done
+
 :black_square_button: Proper Repository Design
+
 :black_square_button: Frontend development
+
 :black_square_button: Custom API development
